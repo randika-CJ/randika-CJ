@@ -11,13 +11,17 @@
 - 🏆 **AMP®-Parkinson's Disease Progression Prediction** - Kaggle Top 83%
 - 🥇 **Sri Lankan Mathematical Olympiad** High Distinction (2011-2017)
 - 📊 Published research: *"A Data-Driven Spatiotemporal Framework for Retail Analytics"* at ADScAI Summit 2025
-<div>
-> **💡 Currently exploring:** *Advanced Computer Vision techniques, Time Series Analysis & Forecasting, Natural Language Processing, and MLOps & Model Deployment*
 
-**🌐 Portfolio:** *[randikapra.github.io](https://randikapra.github.io) - Showcasing my latest projects and research work*
+<div align="center">
+
+**💡 Currently exploring:** *Advanced Computer Vision techniques, Reinforcement Learning, Natural Language Processing, Financial Analytics & Recommendation Systems, Time Series Analysis & Forecasting and Big Data Analytics*
 
 *"Seeking opportunities to apply technical and analytical skills to address real-world complex problems and provide impactful solutions."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=randikapra&color=58a6ff&style=for-the-badge&label=Profile+Views)
+
 </div>
+
 ## 🛠️ Tech Stack
 ### Languages:
 <p>
