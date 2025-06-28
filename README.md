@@ -12,10 +12,23 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-FF5722?style=for-the-badge)](https://randikapra.github.io)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge)](https://linkedin.com/in/randika-prabashwara)
-[![Email](https://img.shields.io/badge/📧_Email-Contact-D14836?style=for-the-badge)](mailto:randikap.20@cse.mrt.ac.lk)
-[![GitHub](https://img.shields.io/badge/💻_GitHub-Follow-181717?style=for-the-badge)](https://github.com/randikapra)
+    <h2>
+        <a href="https://randikapra.github.io">
+            <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-FF5722" alt="Portfolio">
+        </a>
+        <a href="https://linkedin.com/in/randika-prabashwara">
+            <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5" alt="LinkedIn">
+        </a>
+        <a href="mailto:randikap.20@cse.mrt.ac.lk">
+            <img src="https://img.shields.io/badge/📧_Email-Contact-D14836" alt="Email">
+        </a>
+      <a href="https://github.com/randikapra">
+            <img src="https://img.shields.io/badge/💻_GitHub-Follow-181717" alt="GitHub">
+        <a href="tel:+94775747823">
+            <img src="https://img.shields.io/badge/📱_Phone-Call-25D366" alt="Phone">
+        </a>
+        </a>
+    </h2>
 
 </div>
 
