@@ -79,27 +79,32 @@ Pioneering super-resolution framework for microscopy imaging using hierarchical 
 
 ---
 
-### 📊 Geo-Spatial Intelligence Platform
-> **🏢 Enterprise Solution | Dec 2024 - Present**
-
+### 🌍 GeoSales Intelligence Platform
+> **🏢 Enterprise-Grade Business Intelligence | Dec 2024 - Present**
 <div align="left">
-
-[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat&logo=github)](https://github.com/randikapra/Dealer_Dynamics)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat&logo=github)](https://github.com/randikapra/geosales-intelligence-platform)
 [![Demo](https://img.shields.io/badge/🚀_Demo-Try_Live-green?style=flat)](https://your-demo-link.com)
-![Status](https://img.shields.io/badge/Status-Production-success?style=flat)
-
+![Status](https://img.shields.io/badge/Status-Production-brightgreen?style=flat)
 </div>
 
-Enterprise-grade sales analytics platform with GPS tracking, behavioral analysis, and automated report generation.
+**Comprehensive sales intelligence platform combining GPS tracking, ML-powered analytics, and real-time business insights.**
 
-**🎯 Key Features:**
-- 📍 **Real-time GPS tracking** with geofencing capabilities
-- 📈 **Advanced analytics** for sales performance optimization  
-- 🔍 **Behavioral pattern recognition** using ML algorithms
-- 📊 **Automated reporting** with actionable insights
+**🎯 Core Capabilities:**
+- 🗺️ **Geo-Spatial Analytics** - Real-time GPS tracking with route optimization & territory mapping
+- 🤖 **ML-Powered Intelligence** - Sales forecasting, customer segmentation & churn prediction  
+- 📊 **Advanced Dashboards** - Executive, sales, and performance analytics with interactive visualizations
+- 📱 **Cross-Platform** - Web dashboard + mobile app for field sales teams
+- ⚡ **Real-Time Processing** - Kafka streams for live GPS data & instant alerts
 
-**🛠️ Tech Stack:** `Python` `MySQL` `Flask` `MS Fabric` `MS Azure` `OpenStreetMap`
+**🏗️ Architecture Highlights:**
+- **Microservices** - FastAPI backend, ML engine, stream processing, data pipeline
+- **Infrastructure** - Kubernetes deployment, Terraform IaC, comprehensive monitoring
+- **Data Pipeline** - Airflow orchestration, ETL processes, automated model training
+- **Scalability** - Docker containerization, CI/CD pipelines, load balancing
 
+**🛠️ Tech Stack:** `Python` `FastAPI` `React` `PostgreSQL` `Redis` `Kafka` `TensorFlow` `Docker` `Kubernetes` `Terraform`
+
+---
 ---
 
 ### 👁️ OCR Systems Suite
