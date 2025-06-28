@@ -3,6 +3,11 @@
 **Data Science Engineer | Machine Learning Enthusiast | Computer Vision Specialist**
 
 > *"Energetic, risk-taking, and results-oriented rational thinker, passionate about yielding perfect results for any challenge."*
+> **💡 Currently exploring:** *Advanced Computer Vision techniques, Time Series Analysis & Forecasting, Natural Language Processing, and MLOps & Model Deployment*
+
+**🌐 Portfolio:** *[randikapra.github.io](https://randikapra.github.io) - Showcasing my latest projects and research work*
+
+*"Seeking opportunities to apply technical and analytical skills to address real-world complex problems and provide impactful solutions."*
 
 
 ## 🚀 About Me
@@ -13,32 +18,8 @@
 - 🏆 **AMP®-Parkinson's Disease Progression Prediction** - Kaggle Top 83%
 - 🥇 **Sri Lankan Mathematical Olympiad** High Distinction (2011-2017)
 - 📊 Published research: *"A Data-Driven Spatiotemporal Framework for Retail Analytics"* at ADScAI Summit 2025
-## 📫 Get In Touch!
-
-<div align="center">
-    <h2>
-        <a href="https://randikapra.github.io">
-            <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-FF5722" alt="Portfolio">
-        </a>
-        <a href="https://linkedin.com/in/randika-prabashwara">
-            <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5" alt="LinkedIn">
-        </a>
-        <a href="mailto:randikap.20@cse.mrt.ac.lk">
-            <img src="https://img.shields.io/badge/📧_Email-Contact-D14836" alt="Email">
-        </a>
-        <a href="tel:+94775747823">
-            <img src="https://img.shields.io/badge/📱_Phone-Call-25D366" alt="Phone">
-        </a>
-        <a href="https://github.com/randikapra">
-            <img src="https://img.shields.io/badge/💻_GitHub-Follow-181717" alt="GitHub">
-        </a>
-    </h2>
-</div>
-
----
 
 ## 🛠️ Tech Stack
-
 ### Languages:
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" alt="Python"/>
@@ -162,14 +143,31 @@ Comprehensive sales analysis system with GPS tracking and behavioral analysis th
 - 👁️ **[Facial Expression Recognition with PyTorch](https://dummy-coursera-cert.com)** - Coursera Project Network
 
 
+## 📫 Get In Touch!
 
 <div align="center">
+    <h2>
+        <a href="https://randikapra.github.io">
+            <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-FF5722" alt="Portfolio">
+        </a>
+        <a href="https://linkedin.com/in/randika-prabashwara">
+            <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5" alt="LinkedIn">
+        </a>
+        <a href="mailto:randikap.20@cse.mrt.ac.lk">
+            <img src="https://img.shields.io/badge/📧_Email-Contact-D14836" alt="Email">
+        </a>
+        <a href="tel:+94775747823">
+            <img src="https://img.shields.io/badge/📱_Phone-Call-25D366" alt="Phone">
+        </a>
+        <a href="https://github.com/randikapra">
+            <img src="https://img.shields.io/badge/💻_GitHub-Follow-181717" alt="GitHub">
+        </a>
+    </h2>
+</div>
 
-**💡 Currently exploring:** *Advanced Computer Vision techniques, Time Series Analysis & Forecasting, Natural Language Processing, and MLOps & Model Deployment*
+---
 
-**🌐 Portfolio:** *[randikapra.github.io](https://randikapra.github.io) - Showcasing my latest projects and research work*
-
-*"Seeking opportunities to apply technical and analytical skills to address real-world complex problems and provide impactful solutions."*
+<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=randikapra&color=58a6ff&style=for-the-badge&label=Profile+Views)
 
