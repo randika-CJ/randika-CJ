@@ -243,7 +243,14 @@
             border-radius: 15px;
             z-index: -1;
         }
-
+        .profile-photo {
+            width: 100%;
+            aspect-ratio: 1;
+            object-fit: cover;
+            border-radius: 15px;
+            border: 3px solid var(--border-color);
+            display: block;
+        }
         .profile-placeholder {
             width: 100%;
             aspect-ratio: 1;
@@ -720,9 +727,7 @@
             
             <div class="about-grid">
                 <div class="about-image">
-                    <div class="profile-placeholder">
-                        <i class="fas fa-user"></i>
-                    </div>
+                    <img src="images/randika_web.jpg" alt="Randika Prabashwara - Profile Photo" class="profile-photo">
                 </div>
                 <div class="about-content">
                     <h3>Building AI Solutions for Tomorrow</h3>
