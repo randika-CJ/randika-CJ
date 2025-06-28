@@ -34,19 +34,6 @@
 
 ## 🚀 Quick Overview
 
-```python
-profile = {
-    "name": "Randika Prabashwara",
-    "role": "Data Science Engineer",
-    "education": "B.Sc. Engineering (Honours) - Data Science & Engineering",
-    "university": "University of Moratuwa",
-    "current_position": "Data Science Engineer Intern @ Brown and Company PLC",
-    "research_focus": "Structure-Informed Super Resolution for Scientific Imaging",
-    "status": "Final Year Student",
-    "location": "Sri Lanka"
-}
-```
-
 ```yaml
 name: Randika Prabashwara
 role: Data Science Engineer
