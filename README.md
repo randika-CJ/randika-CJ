@@ -122,8 +122,7 @@ High-performance music genre classification system built on Apache Spark for lar
 * 📊 **Multi-Model Ensemble** - Comparative analysis across multiple ML algorithms with performance optimization
 * 🔄 **Production Pipeline** - Complete MLOps workflow with model versioning & automated inference
 
-## 🛠️ Tech Stack: 
-`Python` `Apache Spark` `PySpark MLlib` `Audio Processing` `Distributed Computing`
+**🛠️ Tech Stack:** `Python` `Apache Spark` `PySpark MLlib` `Audio Processing` `Distributed Computing`
 ---
 
 ### 👁️ OCR Systems Suite
