@@ -76,6 +76,10 @@ Developed state-of-the-art super-resolution framework for microscopy and nanosci
 
 ---
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 📊 Sales Insight Navigator
 **Mar 2024 - Jun 2024**
 
@@ -83,7 +87,8 @@ Comprehensive sales analysis system with GPS tracking and behavioral analysis th
 
 **Tech Stack:** `Python` `MySQL` `Flask` `MS Fabric` `MS Azure` `OpenStreetMap`
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 🔍 OCR Systems (Cheque & License Processing)
 **Dec 2023 - May 2025**
@@ -92,6 +97,10 @@ Comprehensive sales analysis system with GPS tracking and behavioral analysis th
 - **License OCR:** Driving license validation without segmentation dependencies
 
 **Tech Stack:** `Python` `OpenCV` `TensorFlow` `Keras`
+
+</td>
+</tr>
+</table>
 
 ## 📈 GitHub Stats & Activity
 
@@ -154,7 +163,9 @@ Comprehensive sales analysis system with GPS tracking and behavioral analysis th
 
 <div align="center">
 
-**💡 Currently exploring:** *Advanced Computer Vision techniques, Scientific Image Processing, and Big Data Analytics*
+**💡 Currently exploring:** *Advanced Computer Vision techniques, Time Series Analysis & Forecasting, Natural Language Processing, and MLOps & Model Deployment*
+
+**🌐 Portfolio:** *[randikapra.github.io](https://randikapra.github.io) - Showcasing my latest projects and research work*
 
 *"Seeking opportunities to apply technical and analytical skills to address real-world complex problems and provide impactful solutions."*
 
