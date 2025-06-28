@@ -34,9 +34,10 @@
 
 ## 🚀 Quick Overview
 
+```javascript
 const profile = {
   name: "Randika Prabashwara",
-  role: "Data Science Engineer",
+  role: "Data Science Engineer", 
   education: "B.Sc. Engineering (Honours) - Data Science & Engineering",
   university: "University of Moratuwa",
   currentPosition: "Data Science Engineer Intern @ Brown and Company PLC",
@@ -44,6 +45,7 @@ const profile = {
   status: "Final Year Student",
   location: "Sri Lanka"
 };
+```
 
 ```yaml
 name: Randika Prabashwara
