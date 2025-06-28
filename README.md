@@ -3,14 +3,6 @@
 **Data Science Engineer | Machine Learning Enthusiast | Computer Vision Specialist**
 
 > *"Energetic, risk-taking, and results-oriented rational thinker, passionate about yielding perfect results for any challenge."*
-
-> **💡 Currently exploring:** *Advanced Computer Vision techniques, Time Series Analysis & Forecasting, Natural Language Processing, and MLOps & Model Deployment*
-
-**🌐 Portfolio:** *[randikapra.github.io](https://randikapra.github.io) - Showcasing my latest projects and research work*
-
-*"Seeking opportunities to apply technical and analytical skills to address real-world complex problems and provide impactful solutions."*
-
-
 ## 🚀 About Me
 
 - 🎓 **B.Sc. Engineering (Honours)** in Data Science & Engineering from University of Moratuwa (CGPA: 3.30/4.0)
@@ -19,7 +11,13 @@
 - 🏆 **AMP®-Parkinson's Disease Progression Prediction** - Kaggle Top 83%
 - 🥇 **Sri Lankan Mathematical Olympiad** High Distinction (2011-2017)
 - 📊 Published research: *"A Data-Driven Spatiotemporal Framework for Retail Analytics"* at ADScAI Summit 2025
+<div>
+> **💡 Currently exploring:** *Advanced Computer Vision techniques, Time Series Analysis & Forecasting, Natural Language Processing, and MLOps & Model Deployment*
 
+**🌐 Portfolio:** *[randikapra.github.io](https://randikapra.github.io) - Showcasing my latest projects and research work*
+
+*"Seeking opportunities to apply technical and analytical skills to address real-world complex problems and provide impactful solutions."*
+</div>
 ## 🛠️ Tech Stack
 ### Languages:
 <p>
