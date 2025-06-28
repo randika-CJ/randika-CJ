@@ -4,6 +4,32 @@
 
 > *"Energetic, risk-taking, and results-oriented rational thinker, passionate about yielding perfect results for any challenge."*
 
+## 📫 Let's Connect!
+
+<div align="center">
+    <h2>
+        <a href="https://randikapra.github.io">
+            <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-FF5722" alt="Portfolio">
+        </a>
+        <a href="https://linkedin.com/in/randika-prabashwara">
+            <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5" alt="LinkedIn">
+        </a>
+        <a href="mailto:randikap.20@cse.mrt.ac.lk">
+            <img src="https://img.shields.io/badge/📧_Email-Contact-D14836" alt="Email">
+        </a>
+        <a href="tel:+94775747823">
+            <img src="https://img.shields.io/badge/📱_Phone-Call-25D366" alt="Phone">
+        </a>
+        <a href="https://github.com/randikapra">
+            <img src="https://img.shields.io/badge/💻_GitHub-Follow-181717" alt="GitHub">
+        </a>
+    </h2>
+</div>
+
+---
+
+<div align="center">
+
 ## 🚀 About Me
 
 - 🎓 **B.Sc. Engineering (Honours)** in Data Science & Engineering from University of Moratuwa (CGPA: 3.30/4.0)
@@ -137,31 +163,7 @@ Comprehensive sales analysis system with GPS tracking and behavioral analysis th
 - 🏥 **[AI for Medical Diagnosis](https://dummy-medical-ai-cert.com)** - DeepLearning.AI
 - 👁️ **[Facial Expression Recognition with PyTorch](https://dummy-coursera-cert.com)** - Coursera Project Network
 
-## 📫 Let's Connect!
 
-<div align="center">
-    <h2>
-        <a href="https://randikapra.github.io">
-            <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-FF5722" alt="Portfolio">
-        </a>
-        <a href="https://linkedin.com/in/randika-prabashwara">
-            <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5" alt="LinkedIn">
-        </a>
-        <a href="mailto:randikap.20@cse.mrt.ac.lk">
-            <img src="https://img.shields.io/badge/📧_Email-Contact-D14836" alt="Email">
-        </a>
-        <a href="tel:+94775747823">
-            <img src="https://img.shields.io/badge/📱_Phone-Call-25D366" alt="Phone">
-        </a>
-        <a href="https://github.com/randikapra">
-            <img src="https://img.shields.io/badge/💻_GitHub-Follow-181717" alt="GitHub">
-        </a>
-    </h2>
-</div>
-
----
-
-<div align="center">
 
 **💡 Currently exploring:** *Advanced Computer Vision techniques, Time Series Analysis & Forecasting, Natural Language Processing, and MLOps & Model Deployment*
 
