@@ -4,7 +4,7 @@
 
 > *"Energetic, risk-taking, and results-oriented rational thinker, passionate about yielding perfect results for any challenge."*
 
-## 📫 Let's Connect!
+## 📫 Get In Touch!
 
 <div align="center">
     <h2>
