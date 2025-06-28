@@ -21,16 +21,14 @@
         <a href="mailto:randikap.20@cse.mrt.ac.lk">
             <img src="https://img.shields.io/badge/📧_Email-Contact-D14836" alt="Email">
         </a>
-      <a href="https://github.com/randikapra">
+        <a href="https://github.com/randikapra">
             <img src="https://img.shields.io/badge/💻_GitHub-Follow-181717" alt="GitHub">
+        </a>
         <a href="tel:+94775747823">
             <img src="https://img.shields.io/badge/📱_Phone-Call-25D366" alt="Phone">
         </a>
-        </a>
     </h2>
 </div>
-
----
 
 ## 🚀 About Me
 
@@ -46,17 +44,42 @@
 <details>
 <summary><b>🔥 Click to expand my technical arsenal</b></summary>
 
-**Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+### Languages
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
 
-**AI/ML:** ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+### AI/ML & Data Science
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV">
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" alt="Keras">
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn">
+<img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy">
 
-**Web Dev:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+### Web Development
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
+<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask">
 
-**Databases:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![HBase](https://img.shields.io/badge/HBase-FF652F?style=flat&logo=apache&logoColor=white)
+### Databases
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
+<img src="https://img.shields.io/badge/HBase-FF652F?style=flat&logo=apache&logoColor=white" alt="HBase">
 
-**Big Data:** ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white) ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=black)
+### Big Data & Cloud
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white" alt="Apache Spark">
+<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=black" alt="Hadoop">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS">
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure">
 
-**Cloud & Tools:** ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+### Tools & Others
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter">
 
 </details>
 
@@ -66,10 +89,12 @@
 > **Final Year Project | Jun 2024 - Present**
 
 <div align="left">
-
-[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat&logo=github)](https://github.com/randikapra/super-resolution-project)
-[![Paper](https://img.shields.io/badge/📄_Paper-Read_More-blue?style=flat)](https://your-paper-link.com)
-
+    <a href="https://github.com/randikapra/super-resolution-project">
+        <img src="https://img.shields.io/badge/💻_GitHub-View_Code-181717" alt="GitHub">
+    </a>
+    <a href="https://your-paper-link.com">
+        <img src="https://img.shields.io/badge/📄_Paper-Read_More-blue" alt="Paper">
+    </a>
 </div>
 
 Developed state-of-the-art super-resolution framework for microscopy and nanoscience imaging with hierarchical multi-scale learning and adaptive feature fusion.
@@ -88,10 +113,12 @@ Developed state-of-the-art super-resolution framework for microscopy and nanosci
 > **Dec 2024 - Present**
 
 <div align="left">
-
-[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat&logo=github)](https://github.com/randikapra/geo-spatial-platform)
-[![Demo](https://img.shields.io/badge/🚀_Demo-Try_Live-green?style=flat)](https://your-demo-link.com)
-
+    <a href="https://github.com/randikapra/geo-spatial-platform">
+        <img src="https://img.shields.io/badge/💻_GitHub-View_Code-181717" alt="GitHub">
+    </a>
+    <a href="https://your-demo-link.com">
+        <img src="https://img.shields.io/badge/🚀_Demo-Try_Live-green" alt="Demo">
+    </a>
 </div>
 
 Comprehensive sales analysis system with GPS tracking and behavioral analysis that generates detailed performance reports and identifies sales trends.
@@ -104,9 +131,9 @@ Comprehensive sales analysis system with GPS tracking and behavioral analysis th
 > **Dec 2023 - May 2025**
 
 <div align="left">
-
-[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat&logo=github)](https://github.com/randikapra/ocr-systems)
-
+    <a href="https://github.com/randikapra/ocr-systems">
+        <img src="https://img.shields.io/badge/💻_GitHub-View_Code-181717" alt="GitHub">
+    </a>
 </div>
 
 - **Cheque OCR:** Automated cheque processing with ML-enhanced text extraction
@@ -196,16 +223,27 @@ SQL           25 mins        ▒░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-## 📫 Get In Touch!
+## 📫 Let's Connect!
 
 <div align="center">
+    <h2>
+        <a href="https://randikapra.github.io">
+            <img src="https://img.shields.io/badge/🌐_Portfolio-randikapra.github.io-FF5722" alt="Portfolio">
+        </a>
+        <a href="https://linkedin.com/in/randika-prabashwara">
+            <img src="https://img.shields.io/badge/💼_LinkedIn-randika--prabashwara-0077B5" alt="LinkedIn">
+        </a>
+        <a href="mailto:randikap.20@cse.mrt.ac.lk">
+            <img src="https://img.shields.io/badge/📧_Email-randikap.20@cse.mrt.ac.lk-D14836" alt="Email">
+        </a>
+        <a href="tel:+94775747823">
+            <img src="https://img.shields.io/badge/📱_Phone-+94775747823-25D366" alt="Phone">
+        </a>
+    </h2>
+</div>
 
-<h3>📞 Ready to collaborate on exciting projects?</h3>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-randikapra.github.io-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://randikapra.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-randika--prabashwara-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/randika-prabashwara)
-[![Email](https://img.shields.io/badge/Email-randikap.20@cse.mrt.ac.lk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:randikap.20@cse.mrt.ac.lk)
-[![Phone](https://img.shields.io/badge/Phone-+94775747823-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+94775747823)
+<h3 align="center">📞 Ready to collaborate on exciting projects?</h3>
 
 <br>
 
@@ -215,8 +253,6 @@ SQL           25 mins        ▒░░░░░░░░░░░░░░░░
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=randikapra&color=58a6ff&style=for-the-badge&label=Profile+Views)
-![Stars](https://img.shields.io/github/stars/randikapra?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Total%20Stars&color=yellow)
-![Followers](https://img.shields.io/github/followers/randikapra?style=for-the-badge&logo=github&label=Followers&color=blue)
+<img src="https://komarev.com/ghpvc/?username=randikapra&color=58a6ff&style=for-the-badge&label=Profile+Views" alt="Profile Views"> <img src="https://img.shields.io/github/stars/randikapra?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Total%20Stars&color=yellow" alt="Stars"> <img src="https://img.shields.io/github/followers/randikapra?style=for-the-badge&logo=github&label=Followers&color=blue" alt="Followers">
 
 </div>
