@@ -11,7 +11,6 @@
 > *"Energetic, risk-taking, and results-oriented rational thinker, passionate about yielding perfect results for any challenge."*
 
 <div align="center">
-
     <h2>
         <a href="https://randikapra.github.io">
             <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-FF5722" alt="Portfolio">
@@ -29,8 +28,9 @@
         </a>
         </a>
     </h2>
-
 </div>
+
+---
 
 ## 🚀 About Me
 
