@@ -34,7 +34,7 @@
 
 ## 🚀 Quick Overview
 
-```javascript
+```json
 const profile = {
   name: "Randika Prabashwara",
   role: "Data Science Engineer", 
