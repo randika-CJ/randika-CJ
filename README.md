@@ -272,7 +272,7 @@ SQL           25 mins        ▒░░░░░░░░░░░░░░░░
     </h2>
 </div>
 <br>
-
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=randikapra&color=58a6ff&style=for-the-badge&label=Profile+Views" alt="Profile Views"> <img src="https://img.shields.io/github/stars/randikapra?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Total%20Stars&color=yellow" alt="Stars"> <img src="https://img.shields.io/github/followers/randikapra?style=for-the-badge&logo=github&label=Followers&color=blue" alt="Followers">
 
 </div>
