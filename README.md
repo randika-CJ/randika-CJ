@@ -4,6 +4,15 @@
 
 > *"Energetic, risk-taking, and results-oriented rational thinker, passionate about yielding perfect results for any challenge."*
 
+
+## 🚀 About Me
+
+- 🎓 **B.Sc. Engineering (Honours)** in Data Science & Engineering from University of Moratuwa (CGPA: 3.30/4.0)
+- 💼 **Data Science Engineer Intern** at Brown and Company PLC
+- 🔬 Currently working on **Structure-Informed Super Resolution** for Scientific Imaging (Final Year Project)
+- 🏆 **AMP®-Parkinson's Disease Progression Prediction** - Kaggle Top 83%
+- 🥇 **Sri Lankan Mathematical Olympiad** High Distinction (2011-2017)
+- 📊 Published research: *"A Data-Driven Spatiotemporal Framework for Retail Analytics"* at ADScAI Summit 2025
 ## 📫 Get In Touch!
 
 <div align="center">
@@ -27,15 +36,6 @@
 </div>
 
 ---
-
-## 🚀 About Me
-
-- 🎓 **B.Sc. Engineering (Honours)** in Data Science & Engineering from University of Moratuwa (CGPA: 3.30/4.0)
-- 💼 **Data Science Engineer Intern** at Brown and Company PLC
-- 🔬 Currently working on **Structure-Informed Super Resolution** for Scientific Imaging (Final Year Project)
-- 🏆 **AMP®-Parkinson's Disease Progression Prediction** - Kaggle Top 83%
-- 🥇 **Sri Lankan Mathematical Olympiad** High Distinction (2011-2017)
-- 📊 Published research: *"A Data-Driven Spatiotemporal Framework for Retail Analytics"* at ADScAI Summit 2025
 
 ## 🛠️ Tech Stack
 
