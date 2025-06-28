@@ -14,12 +14,8 @@
 
 <div align="center">
 
-**💡 Currently exploring:** *Advanced Computer Vision techniques, Reinforcement Learning, Natural Language Processing, Financial Analytics & Recommendation Systems, Time Series Analysis & Forecasting and Big Data Analytics*
-
-*"Seeking opportunities to apply technical and analytical skills to address real-world complex problems and provide impactful solutions."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=randikapra&color=58a6ff&style=for-the-badge&label=Profile+Views)
-
+> **💡 Currently exploring:** *Advanced Computer Vision techniques, Reinforcement Learning, Natural Language Processing, Financial Analytics & Recommendation Systems, Time Series Analysis & Forecasting and Big Data Analytics*
+> *"Seeking opportunities to apply technical and analytical skills to address real-world complex problems and provide impactful solutions."*
 </div>
 
 ## 🛠️ Tech Stack
