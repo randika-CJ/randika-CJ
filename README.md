@@ -28,8 +28,6 @@
 
 ---
 
-<div align="center">
-
 ## 🚀 About Me
 
 - 🎓 **B.Sc. Engineering (Honours)** in Data Science & Engineering from University of Moratuwa (CGPA: 3.30/4.0)
@@ -164,6 +162,8 @@ Comprehensive sales analysis system with GPS tracking and behavioral analysis th
 - 👁️ **[Facial Expression Recognition with PyTorch](https://dummy-coursera-cert.com)** - Coursera Project Network
 
 
+
+<div align="center">
 
 **💡 Currently exploring:** *Advanced Computer Vision techniques, Time Series Analysis & Forecasting, Natural Language Processing, and MLOps & Model Deployment*
 
