@@ -1,278 +1,1163 @@
-# Hi there! 👋 I'm Randika Prabashwara
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Science+Engineer+%7C+ML+Enthusiast;Computer+Vision+Specialist;Building+AI+Solutions+for+Real-World+Problems)](https://git.io/typing-svg)
-
-</div>
-
-**Data Science Engineer | Machine Learning Enthusiast | Computer Vision Specialist**
-
-> *"Transforming complex data into intelligent solutions that drive real-world impact"*
-
-<div align="center">
-    <h2>
-        <a href="https://randikapra.github.io">
-            <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-FF5722" alt="Portfolio">
-        </a>
-        <a href="https://www.linkedin.com/in/randika-prabashwara-739bba237/">
-            <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5" alt="LinkedIn">
-        </a>
-        <a href="mailto:randikap.20@cse.mrt.ac.lk">
-            <img src="https://img.shields.io/badge/📧_Email-Contact-D14836" alt="Email">
-        </a>
-      <a href="https://github.com/randikapra">
-            <img src="https://img.shields.io/badge/💻_GitHub-Follow-181717" alt="GitHub">
-        <a href="tel:+94775747823">
-            <img src="https://img.shields.io/badge/📱_Phone-Call-25D366" alt="Phone">
-        </a>
-        </a>
-    </h2>
-</div>
-
----
-
-## 🚀 Quick Overview
-
-```yaml
-name: Randika Prabashwara
-role: Data Science Engineer
-education: B.Sc. Engineering (Honours) - Computer Science & Engineering
-specialization: Data Science & Engineering
-university: University of Moratuwa, Sri Lanka
-research_focus (FYP): Structure-Informed Super Resolution Technique for Scientific Imaging
-status: Final Year Student
-location: Sri Lanka
-```
-
-### 🎯 What I Do
-- 🔬 **Research:** Advanced Computer Vision & Super Resolution Techniques
-- 💼 **Work:** Building scalable data solutions for enterprise clients
-- 🎓 **Study:** Final year at University of Moratuwa (Data Science & Engineering)
-- 🏆 **Compete:** Active Kaggler with proven track record
-
----
-
-## 💡 Featured Projects
-
-### 🔬 Structure-Informed Super Resolution for Scientific Imaging
-> **🎓 Final Year Research Project | Jun 2024 - Present**
-
-<div align="left">
-
-[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat&logo=github)](https://github.com/randikapra/CSM-SR-Test3)
-[![Demo](https://img.shields.io/badge/🚀_Demo-Try_Live-green?style=flat)](https://randikapra.github.io/CSM-SR-Test3/)
-[![Paper](https://img.shields.io/badge/📄_Paper-Read_More-blue?style=flat)](https://our-paper-link.com)
-![Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=flat)
-
-</div>
-
-Pioneering super-resolution framework for microscopy and nanoscience imaging using hierarchical multi-scale learning and adaptive feature fusion.
-
-**🎯 Impact & Results:**
-- ✅ **3.5dB PSNR improvement** over state-of-the-art methods
-- ✅ **20% SSIM increase, 20% LPIPS decrease** on SEM dataset & benchmark datasets
-- ✅ **Outperformed state-of-the-art models EDSR, ESRGAN, SwinIR & HMANet** on scientific imaging tasks
-- ✅ **Novel architecture** with encoder-driven conditioning & semantic structural loss
-
-**🛠️ Tech Stack:** `Python` `TensorFlow` `Keras` `Computer Vision` `Deep Learning`
-
----
-
-### 📊 Geo-Spatial Intelligence Platform
-> **🏢 Enterprise Solution | Dec 2024 - Present**
-
-<div align="left">
-
-[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat&logo=github)](https://github.com/randikapra/Dealer_Dynamics)
-[![Demo](https://img.shields.io/badge/🚀_Demo-Try_Live-green?style=flat)](https://your-demo-link.com)
-![Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=flat)
-
-</div>
-
-Enterprise-grade sales analytics platform with GPS tracking, behavioral analysis, and automated report generation.
-
-**🎯 Core Capabilities:**
-- 🗺️ **Geo-Spatial Analytics** - Real-time GPS tracking with route optimization & territory mapping
-- 🤖 **ML-Powered Intelligence** - Sales forecasting, customer segmentation & churn prediction  
-- 📊 **Advanced Dashboards** - Executive, sales, and performance analytics with interactive visualizations
-- ⚡ **Real-Time Processing** - Kafka streams for live GPS data & instant alerts
-
-**🛠️ Tech Stack:** `Python` `FastAPI` `React` `PostgreSQL` `Redis` `Kafka` `TensorFlow` `Docker` `Kubernetes` `Terraform`
-
----
-
-<details>
-<summary><b>💡 Click to expand more Featured Projects</b></summary>
-### 🎵 Distributed Music Genre Classification Engine
-> **🎼 Big Data ML Pipeline | Nov 2024**
-
-[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat&logo=github)](https://github.com/randikapra/music-genre-classifier) [![Models](https://img.shields.io/badge/📁_Models-Download-blue?style=flat)](https://github.com/randikapra/music-genre-classifier/tree/main/models) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat)
-
-High-performance music genre classification system built on Apache Spark for large-scale audio processing and distributed machine learning.
-
-**🎯 Core Capabilities:**
-- 🔥 **Spark-Native Pipeline** - Distributed training with Random Forest, GBT & Logistic Regression models
-- ⚡ **Scalable Architecture** - Handles massive datasets with automated model persistence & deployment
-- 📊 **Multi-Model Ensemble** - Comparative analysis across multiple ML algorithms with performance optimization
-- 🔄 **Production Pipeline** - Complete MLOps workflow with model versioning & automated inference
-
-**🛠️ Tech Stack:** `Python` `Apache Spark` `PySpark MLlib` `Audio Processing` `Distributed Computing`
----
-
-### 👁️ OCR Systems Suite
-> **🤖 AI-Powered Document Processing | Dec 2023 - May 2025**
-
-<div align="left">
-
-[![Cheque OCR](https://img.shields.io/badge/GitHub-Cheque_OCR-181717?style=flat&logo=github)](https://github.com/randikapra/cheque-ocr)
-[![License OCR](https://img.shields.io/badge/GitHub-License_OCR-181717?style=flat&logo=github)](https://github.com/randikapra/driving-license-ocr)
-![Status](https://img.shields.io/badge/Status-Deployed-success?style=flat)
-
-</div>
-
-Comprehensive OCR solution suite for financial and identification document processing.
-
-**🎯 Solutions:**
-- 💰 **Cheque OCR:** Automated bank cheque processing with 95%+ accuracy
-- 🆔 **License OCR:** Driving license validation without segmentation dependencies
-- 🔍 **Smart Preprocessing:** ML-enhanced image optimization pipeline
-
-**🛠️ Tech Stack:** `Python` `OpenCV` `TensorFlow` `Keras` `OCR` `Computer Vision`
-
----
-</details>
-
-## 🛠️ Tech Arsenal
-
-<details>
-<summary><b>🔥 Click to expand my technical arsenal</b></summary>
-
-**Programming Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-**AI/ML & Data Science:** ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-
-**Web Development:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-
-**Databases:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![HBase](https://img.shields.io/badge/HBase-FF652F?style=flat&logo=apache&logoColor=white)
-
-**Big Data:** ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white) ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=black)
-
-**Cloud & Tools:** ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</details>
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=randikapra&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true" alt="GitHub Stats" />
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=randikapra&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-
-</td>
-</tr>
-</table>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=randikapra&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&area_color=58a6ff" alt="Contribution Graph" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=randikapra&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=58a6ff&sideNums=58a6ff" alt="GitHub Streak" />
-
-</div>
-
-## 🏆 Achievements & Recognition
-
-<details>
-<summary><b>🎓 Academic & Professional Achievements</b></summary>
-
-### 🎯 **Competition Success**
-[![Kaggle](https://img.shields.io/badge/Kaggle-Top_83%25-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/randikapra)
-
-**AMP®-Parkinson's Disease Progression Prediction** - Achieved top 83% ranking
-
-### 🏅 **Academic Excellence**
-- 🥇 **Best Result in Physical Science** - Prince of Wales College, Moratuwa
-- 🏆 **Mathematical Olympiad High Distinction** (2011-2017)
-- 🎓 **B.Sc. Engineering (Honours)** - University of Moratuwa
-- 📝 **Published Research** - ADScAI Summit 2025
-
-### 📚 **Professional Certifications**
-- ☁️ **AWS Academy Graduate** - Data Engineering, ML, NLP
-- 🎓 **Machine Learning Specialization** - Stanford University  
-- 🔬 **Operations Research** - National Taiwan University
-- 🧠 **Mathematics for ML** - DeepLearning.AI
-- 🏥 **AI for Medical Diagnosis** - DeepLearning.AI
-
-</details>
-
-## 🌱 Currently Exploring
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((AI/ML Focus))
-    Advanced Computer Vision
-      Super Resolution
-      Medical Imaging
-      Object Detection
-    Reinforcement Learning
-      Deep Q-Learning
-      Policy Gradients
-    NLP & LLMs
-      Transformers
-      Fine-tuning
-    Financial Analytics
-      Time Series
-      Risk Modeling
-    Big Data
-      Distributed Computing
-      Real-time Analytics
-```
-
-</div>
-
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-Python       12 hrs 30 mins  ██████████████████░░░   82.5%
-JavaScript    2 hrs 15 mins  ███░░░░░░░░░░░░░░░░░░   14.8%
-SQL           25 mins        ▒░░░░░░░░░░░░░░░░░░░░    2.7%
-```
-<!--END_SECTION:waka-->
-
-## 🤝 Let's Collaborate!
-
-**🚀 Open to exciting opportunities in:** ![Data Science](https://img.shields.io/badge/Data_Science-FF6B6B?style=flat) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-4ECDC4?style=flat) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-45B7D1?style=flat) ![AI Research](https://img.shields.io/badge/AI_Research-96CEB4?style=flat) ![Software Development](https://img.shields.io/badge/Software_Development-FFEAA7?style=flat)
-
-*"Seeking opportunities to apply technical and analytical skills to address real-world complex problems and provide impactful solutions."*
-
-<div align="center">
-    <h2>
-        <a href="https://randikapra.github.io">
-            <img src="https://img.shields.io/badge/🌐_Portfolio-randikapra.github.io-FF5722" alt="Portfolio">
-        </a>
-        <a href="https://www.linkedin.com/in/randika-prabashwara-739bba237/">
-            <img src="https://img.shields.io/badge/💼_LinkedIn-randika--prabashwara-0077B5" alt="LinkedIn">
-        </a>
-        <a href="mailto:randikap.20@cse.mrt.ac.lk">
-            <img src="https://img.shields.io/badge/📧_Email-randikap.20@cse.mrt.ac.lk-D14836" alt="Email">
-        </a>
-        <a href="tel:+94775747823">
-            <img src="https://img.shields.io/badge/📱_Phone-+94775747823-25D366" alt="Phone">
-        </a>
-    </h2>
-</div>
-<br>
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=randikapra&color=58a6ff&style=for-the-badge&label=Profile+Views" alt="Profile Views"> <img src="https://img.shields.io/github/stars/randikapra?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Total%20Stars&color=yellow" alt="Stars"> <img src="https://img.shields.io/github/followers/randikapra?style=for-the-badge&logo=github&label=Followers&color=blue" alt="Followers">
-
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Randika Prabashwara - Data Science Engineer</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Fira+Code:wght@400;500&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --primary-color: #58A6FF;
+            --secondary-color: #FF6B6B;
+            --accent-color: #4ECDC4;
+            --text-primary: #E6EDF3;
+            --text-secondary: #7D8590;
+            --bg-primary: #0D1117;
+            --bg-secondary: #161B22;
+            --bg-tertiary: #21262D;
+            --border-color: #30363D;
+            --gradient-primary: linear-gradient(135deg, #58A6FF 0%, #4ECDC4 100%);
+            --gradient-secondary: linear-gradient(135deg, #FF6B6B 0%, #58A6FF 100%);
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            overflow-x: hidden;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        /* Header */
+        header {
+            background: rgba(13, 17, 23, 0.95);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid var(--border-color);
+            position: fixed;
+            top: 0;
+            width: 100%;
+            z-index: 1000;
+            transition: all 0.3s ease;
+        }
+
+        nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 1rem 0;
+        }
+
+        .logo {
+            font-size: 1.5rem;
+            font-weight: 700;
+            background: var(--gradient-primary);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .nav-links {
+            display: flex;
+            list-style: none;
+            gap: 2rem;
+        }
+
+        .nav-links a {
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-weight: 500;
+            transition: color 0.3s ease;
+            position: relative;
+        }
+
+        .nav-links a:hover {
+            color: var(--primary-color);
+        }
+
+        .nav-links a::after {
+            content: '';
+            position: absolute;
+            bottom: -5px;
+            left: 0;
+            width: 0;
+            height: 2px;
+            background: var(--gradient-primary);
+            transition: width 0.3s ease;
+        }
+
+        .nav-links a:hover::after {
+            width: 100%;
+        }
+
+        /* Hero Section */
+        .hero {
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            background: radial-gradient(circle at 50% 50%, rgba(88, 166, 255, 0.1) 0%, transparent 50%);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .hero::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: url('data:image/svg+xml,<svg width="60" height="60" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><g fill="%2358A6FF" fill-opacity="0.05"><circle cx="30" cy="30" r="1"/></g></svg>') repeat;
+            animation: float 20s ease-in-out infinite;
+        }
+
+        @keyframes float {
+            0%, 100% { transform: translateY(0px); }
+            50% { transform: translateY(-20px); }
+        }
+
+        .hero-content {
+            z-index: 2;
+            position: relative;
+        }
+
+        .hero h1 {
+            font-size: 3.5rem;
+            font-weight: 700;
+            margin-bottom: 1rem;
+            background: var(--gradient-primary);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .typing-animation {
+            font-family: 'Fira Code', monospace;
+            font-size: 1.5rem;
+            color: var(--primary-color);
+            margin-bottom: 2rem;
+            min-height: 2em;
+        }
+
+        .hero-description {
+            font-size: 1.2rem;
+            color: var(--text-secondary);
+            max-width: 600px;
+            margin: 0 auto 2rem;
+        }
+
+        .cta-buttons {
+            display: flex;
+            gap: 1rem;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+
+        .btn {
+            padding: 12px 24px;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .btn-primary {
+            background: var(--gradient-primary);
+            color: white;
+            border: none;
+        }
+
+        .btn-secondary {
+            background: transparent;
+            color: var(--primary-color);
+            border: 2px solid var(--primary-color);
+        }
+
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 25px rgba(88, 166, 255, 0.3);
+        }
+
+        /* About Section */
+        .about {
+            padding: 6rem 0;
+            background: var(--bg-secondary);
+        }
+
+        .section-title {
+            text-align: center;
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin-bottom: 1rem;
+            background: var(--gradient-primary);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .section-subtitle {
+            text-align: center;
+            color: var(--text-secondary);
+            margin-bottom: 4rem;
+            font-size: 1.1rem;
+        }
+
+        .about-grid {
+            display: grid;
+            grid-template-columns: 1fr 2fr;
+            gap: 4rem;
+            align-items: center;
+        }
+
+        .about-image {
+            position: relative;
+        }
+
+        .about-image::before {
+            content: '';
+            position: absolute;
+            top: 20px;
+            left: 20px;
+            right: -20px;
+            bottom: -20px;
+            background: var(--gradient-primary);
+            border-radius: 15px;
+            z-index: -1;
+        }
+
+        .profile-placeholder {
+            width: 100%;
+            aspect-ratio: 1;
+            background: var(--bg-tertiary);
+            border-radius: 15px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 4rem;
+            color: var(--primary-color);
+            border: 3px solid var(--border-color);
+        }
+
+        .about-content h3 {
+            font-size: 1.5rem;
+            margin-bottom: 1rem;
+            color: var(--primary-color);
+        }
+
+        .about-content p {
+            color: var(--text-secondary);
+            margin-bottom: 1.5rem;
+            line-height: 1.8;
+        }
+
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 2rem;
+            margin-top: 2rem;
+        }
+
+        .stat-item {
+            text-align: center;
+            padding: 1.5rem;
+            background: var(--bg-tertiary);
+            border-radius: 10px;
+            border: 1px solid var(--border-color);
+        }
+
+        .stat-number {
+            font-size: 2rem;
+            font-weight: 700;
+            color: var(--primary-color);
+            display: block;
+        }
+
+        .stat-label {
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+            margin-top: 0.5rem;
+        }
+
+        /* Projects Section */
+        .projects {
+            padding: 6rem 0;
+        }
+
+        .projects-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 2rem;
+            margin-top: 3rem;
+        }
+
+        .project-card {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 15px;
+            overflow: hidden;
+            transition: all 0.3s ease;
+            position: relative;
+        }
+
+        .project-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+            border-color: var(--primary-color);
+        }
+
+        .project-header {
+            padding: 1.5rem;
+            background: var(--gradient-primary);
+            color: white;
+        }
+
+        .project-title {
+            font-size: 1.3rem;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+        }
+
+        .project-subtitle {
+            opacity: 0.9;
+            font-size: 0.9rem;
+        }
+
+        .project-content {
+            padding: 1.5rem;
+        }
+
+        .project-description {
+            color: var(--text-secondary);
+            margin-bottom: 1.5rem;
+            line-height: 1.6;
+        }
+
+        .project-results {
+            margin-bottom: 1.5rem;
+        }
+
+        .result-item {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            margin-bottom: 0.5rem;
+            font-size: 0.9rem;
+            color: var(--text-secondary);
+        }
+
+        .result-item i {
+            color: var(--accent-color);
+        }
+
+        .tech-stack {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .tech-tag {
+            background: var(--bg-tertiary);
+            color: var(--text-primary);
+            padding: 0.3rem 0.8rem;
+            border-radius: 15px;
+            font-size: 0.8rem;
+            border: 1px solid var(--border-color);
+        }
+
+        .project-links {
+            display: flex;
+            gap: 1rem;
+        }
+
+        .project-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.5rem 1rem;
+            background: var(--bg-tertiary);
+            color: var(--primary-color);
+            text-decoration: none;
+            border-radius: 8px;
+            font-size: 0.9rem;
+            border: 1px solid var(--border-color);
+            transition: all 0.3s ease;
+        }
+
+        .project-link:hover {
+            background: var(--primary-color);
+            color: white;
+        }
+
+        /* Skills Section */
+        .skills {
+            padding: 6rem 0;
+            background: var(--bg-secondary);
+        }
+
+        .skills-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            margin-top: 3rem;
+        }
+
+        .skill-category {
+            background: var(--bg-tertiary);
+            padding: 2rem;
+            border-radius: 15px;
+            border: 1px solid var(--border-color);
+            transition: all 0.3s ease;
+        }
+
+        .skill-category:hover {
+            border-color: var(--primary-color);
+            transform: translateY(-2px);
+        }
+
+        .skill-category h3 {
+            color: var(--primary-color);
+            margin-bottom: 1.5rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .skill-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.8rem;
+        }
+
+        .skill-item {
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            padding: 0.5rem 1rem;
+            border-radius: 20px;
+            font-size: 0.9rem;
+            border: 1px solid var(--border-color);
+            transition: all 0.3s ease;
+        }
+
+        .skill-item:hover {
+            background: var(--primary-color);
+            color: white;
+            transform: scale(1.05);
+        }
+
+        /* Contact Section */
+        .contact {
+            padding: 6rem 0;
+        }
+
+        .contact-content {
+            text-align: center;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        .contact-links {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 1.5rem;
+            margin-top: 3rem;
+        }
+
+        .contact-link {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 1.5rem;
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 15px;
+            color: var(--text-primary);
+            text-decoration: none;
+            transition: all 0.3s ease;
+            min-width: 150px;
+        }
+
+        .contact-link:hover {
+            background: var(--primary-color);
+            color: white;
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(88, 166, 255, 0.3);
+        }
+
+        .contact-link i {
+            font-size: 2rem;
+            margin-bottom: 0.5rem;
+        }
+
+        /* Footer */
+        footer {
+            background: var(--bg-secondary);
+            border-top: 1px solid var(--border-color);
+            padding: 2rem 0;
+            text-align: center;
+            color: var(--text-secondary);
+        }
+
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .nav-links {
+                display: none;
+            }
+
+            .hero h1 {
+                font-size: 2.5rem;
+            }
+
+            .typing-animation {
+                font-size: 1.2rem;
+            }
+
+            .about-grid {
+                grid-template-columns: 1fr;
+                gap: 2rem;
+            }
+
+            .stats {
+                grid-template-columns: 1fr;
+            }
+
+            .projects-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .cta-buttons {
+                flex-direction: column;
+                align-items: center;
+            }
+        }
+
+        /* Animations */
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .fade-in-up {
+            animation: fadeInUp 0.6s ease-out;
+        }
+
+        /* Scroll animations */
+        .section {
+            opacity: 0;
+            transform: translateY(50px);
+            transition: all 0.6s ease-out;
+        }
+
+        .section.visible {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <nav class="container">
+            <div class="logo">Randika Prabashwara</div>
+            <ul class="nav-links">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+        <div class="container">
+            <div class="hero-content fade-in-up">
+                <h1>Hi there! 👋 I'm Randika Prabashwara</h1>
+                <div class="typing-animation" id="typing-text"></div>
+                <p class="hero-description">
+                    Transforming complex data into intelligent solutions that drive real-world impact. 
+                    Specializing in computer vision, machine learning, and building scalable AI systems.
+                </p>
+                <div class="cta-buttons">
+                    <a href="#projects" class="btn btn-primary">
+                        <i class="fas fa-rocket"></i>
+                        Explore My Work
+                    </a>
+                    <a href="#contact" class="btn btn-secondary">
+                        <i class="fas fa-envelope"></i>
+                        Get In Touch
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="about section">
+        <div class="container">
+            <h2 class="section-title">About Me</h2>
+            <p class="section-subtitle">Data Science Engineer | Machine Learning Enthusiast | Computer Vision Specialist</p>
+            
+            <div class="about-grid">
+                <div class="about-image">
+                    <div class="profile-placeholder">
+                        <i class="fas fa-user"></i>
+                    </div>
+                </div>
+                <div class="about-content">
+                    <h3>Building AI Solutions for Tomorrow</h3>
+                    <p>
+                        I'm a final-year Computer Science & Engineering student at the University of Moratuwa, 
+                        specializing in Data Science & Engineering. With a passion for artificial intelligence 
+                        and machine learning, I focus on developing innovative solutions that address real-world challenges.
+                    </p>
+                    <p>
+                        My research interests include computer vision, super-resolution techniques, and scalable 
+                        machine learning systems. I believe in the power of data-driven insights to transform 
+                        industries and improve lives.
+                    </p>
+                    
+                    <div class="stats">
+                        <div class="stat-item">
+                            <span class="stat-number">15+</span>
+                            <span class="stat-label">Projects Completed</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-number">Top 83%</span>
+                            <span class="stat-label">Kaggle Ranking</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-number">5+</span>
+                            <span class="stat-label">Research Papers</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects" class="projects section">
+        <div class="container">
+            <h2 class="section-title">Featured Projects</h2>
+            <p class="section-subtitle">Innovative solutions at the intersection of AI and real-world applications</p>
+            
+            <div class="projects-grid">
+                <!-- Project 1 -->
+                <div class="project-card">
+                    <div class="project-header">
+                        <h3 class="project-title">Structure-Informed Super Resolution</h3>
+                        <p class="project-subtitle">Final Year Research Project | Jun 2024 - Present</p>
+                    </div>
+                    <div class="project-content">
+                        <p class="project-description">
+                            Pioneering super-resolution framework for microscopy and nanoscience imaging using 
+                            hierarchical multi-scale learning and adaptive feature fusion.
+                        </p>
+                        <div class="project-results">
+                            <div class="result-item">
+                                <i class="fas fa-check-circle"></i>
+                                <span>3.5dB PSNR improvement over state-of-the-art</span>
+                            </div>
+                            <div class="result-item">
+                                <i class="fas fa-check-circle"></i>
+                                <span>20% SSIM increase, 20% LPIPS decrease</span>
+                            </div>
+                            <div class="result-item">
+                                <i class="fas fa-check-circle"></i>
+                                <span>Outperformed EDSR, ESRGAN, SwinIR & HMANet</span>
+                            </div>
+                        </div>
+                        <div class="tech-stack">
+                            <span class="tech-tag">Python</span>
+                            <span class="tech-tag">TensorFlow</span>
+                            <span class="tech-tag">Keras</span>
+                            <span class="tech-tag">Computer Vision</span>
+                            <span class="tech-tag">Deep Learning</span>
+                        </div>
+                        <div class="project-links">
+                            <a href="https://github.com/randikapra/CSM-SR-Test3" class="project-link">
+                                <i class="fab fa-github"></i>
+                                GitHub
+                            </a>
+                            <a href="https://randikapra.github.io/CSM-SR-Test3/" class="project-link">
+                                <i class="fas fa-external-link-alt"></i>
+                                Demo
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Project 2 -->
+                <div class="project-card">
+                    <div class="project-header">
+                        <h3 class="project-title">Geo-Spatial Intelligence Platform</h3>
+                        <p class="project-subtitle">Enterprise Solution | Dec 2024 - Present</p>
+                    </div>
+                    <div class="project-content">
+                        <p class="project-description">
+                            Enterprise-grade sales analytics platform with GPS tracking, behavioral analysis, 
+                            and automated report generation for data-driven business insights.
+                        </p>
+                        <div class="project-results">
+                            <div class="result-item">
+                                <i class="fas fa-check-circle"></i>
+                                <span>Real-time GPS tracking with route optimization</span>
+                            </div>
+                            <div class="result-item">
+                                <i class="fas fa-check-circle"></i>
+                                <span>ML-powered sales forecasting & customer segmentation</span>
+                            </div>
+                            <div class="result-item">
+                                <i class="fas fa-check-circle"></i>
+                                <span>Interactive dashboards with live analytics</span>
+                            </div>
+                        </div>
+                        <div class="tech-stack">
+                            <span class="tech-tag">Python</span>
+                            <span class="tech-tag">FastAPI</span>
+                            <span class="tech-tag">React</span>
+                            <span class="tech-tag">PostgreSQL</span>
+                            <span class="tech-tag">Kafka</span>
+                            <span class="tech-tag">Docker</span>
+                        </div>
+                        <div class="project-links">
+                            <a href="https://github.com/randikapra/Dealer_Dynamics" class="project-link">
+                                <i class="fab fa-github"></i>
+                                GitHub
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Project 3 -->
+                <div class="project-card">
+                    <div class="project-header">
+                        <h3 class="project-title">Music Genre Classification Engine</h3>
+                        <p class="project-subtitle">Big Data ML Pipeline | Nov 2024</p>
+                    </div>
+                    <div class="project-content">
+                        <p class="project-description">
+                            High-performance music genre classification system built on Apache Spark for 
+                            large-scale audio processing and distributed machine learning.
+                        </p>
+                        <div class="project-results">
+                            <div class="result-item">
+                                <i class="fas fa-check-circle"></i>
+                                <span>Spark-native distributed training pipeline</span>
+                            </div>
+                            <div class="result-item">
+                                <i class="fas fa-check-circle"></i>
+                                <span>Multi-model ensemble with RF, GBT & Logistic Regression</span>
+                            </div>
+                            <div class="result-item">
+                                <i class="fas fa-check-circle"></i>
+                                <span>Scalable architecture for massive datasets</span>
+                            </div>
+                        </div>
+                        <div class="tech-stack">
+                            <span class="tech-tag">Python</span>
+                            <span class="tech-tag">Apache Spark</span>
+                            <span class="tech-tag">PySpark MLlib</span>
+                            <span class="tech-tag">Audio Processing</span>
+                        </div>
+                        <div class="project-links">
+                            <a href="https://github.com/randikapra/music-genre-classifier" class="project-link">
+                                <i class="fab fa-github"></i>
+                                GitHub
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Skills Section -->
+    <section id="skills" class="skills section">
+        <div class="container">
+            <h2 class="section-title">Technical Arsenal</h2>
+            <p class="section-subtitle">Cutting-edge technologies and frameworks I work with</p>
+            
+            <div class="skills-grid">
+                <div class="skill-category">
+                    <h3><i class="fas fa-brain"></i> AI/ML & Data Science</h3>
+                    <div class="skill-list">
+                        <span class="skill-item">TensorFlow</span>
+                        <span class="skill-item">PyTorch</span>
+                        <span class="skill-item">Keras</span>
+                        <span class="skill-item">OpenCV</span>
+                        <span class="skill-item">Scikit-learn</span>
+                        <span class="skill-item">Pandas</span>
+                        <span class="skill-item">NumPy</span>
+                        <span class="skill-item">Computer Vision</span>
+                    </div>
+                </div>
+                
+                <div class="skill-category">
+                    <h3><i class="fas fa-code"></i> Programming Languages</h3>
+                    <div class="skill-list">
+                        <span class="skill-item">Python</span>
+                        <span class="skill-item">Java</span>
+                        <span class="skill-item">C++</span>
+                        <span class="skill-item">JavaScript</span>
+                        <span class="skill-item">HTML5</span>
+                        <span class="skill-item">CSS3</span>
+                        <span class="skill-item">SQL</span>
+                    </div>
+                </div>
+                
+                <div class="skill-category">
+                    <h3><i class="fas fa-database"></i> Big Data & Cloud</h3>
+                    <div class="skill-list">
+                        <span class="skill-item">Apache Spark</span>
+                        <span class="skill-item">Hadoop</span>
+                        <span class="skill-item">AWS</span>
+                        <span class="skill-item">Azure</span>
+                        <span class="skill-item">Docker</span>
+                        <span class="skill-item">Kubernetes</span>
+                        <span class="skill-item">Kafka</span>
+                    </div>
+                </div>
+                
+                <div class="skill-category">
+                    <h3><i class="fas fa-globe"></i> Web Development</h3>
+                    <div class="skill-list">
+                        <span class="skill-item">React</span>
+                        <span class="skill-item">Flask</span>
+                        <span class="skill-item">FastAPI</span>
+                        <span class="skill-item">Node.js</span>
+                        <span class="skill-item">REST APIs</span>
+                        <span class="skill-item">GraphQL</span>
+                    </div>
+                </div>
+                
+                <div class="skill-category">
+                    <h3><i class="fas fa-database"></i> Databases</h3>
+                    <div class="skill-list">
+                        <span class="skill-item">MySQL</span>
+                        <span class="skill-item">PostgreSQL</span>
+                        <span class="skill-item">MongoDB</span>
+                        <span class="skill-item">Redis</span>
+                        <span class="skill-item">HBase</span>
+                        <span class="skill-item">Elasticsearch</span>
+                    </div>
+                </div>
+                
+                <div class="skill-category">
+                    <h3><i class="fas fa-tools"></i> Tools & Others</h3>
+                    <div class="skill-list">
+                        <span class="skill-item">Git</span>
+                        <span class="skill-item">Linux</span>
+                        <span class="skill-item">Jupyter</span>
+                        <span class="skill-item">Tableau</span>
+                        <span class="skill-item">Power BI</span>
+                        <span class="skill-item">MLflow</span>
+                        <span class="skill-item">Terraform</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact section">
+        <div class="container">
+            <h2 class="section-title">Let's Collaborate!</h2>
+            <div class="contact-content">
+                <p class="section-subtitle">
+                    Open to exciting opportunities in Data Science, Machine Learning, Computer Vision, AI Research, and Software Development.
+                    Let's build something amazing together!
+                </p>
+                
+                <div class="contact-links">
+                    <a href="https://randikapra.github.io" class="contact-link">
+                        <i class="fas fa-globe"></i>
+                        <span>Portfolio</span>
+                        <small>randikapra.github.io</small>
+                    </a>
+                    
+                    <a href="https://www.linkedin.com/in/randika-prabashwara-739bba237/" class="contact-link">
+                        <i class="fab fa-linkedin"></i>
+                        <span>LinkedIn</span>
+                        <small>Connect with me</small>
+                    </a>
+                    
+                    <a href="mailto:randikap.20@cse.mrt.ac.lk" class="contact-link">
+                        <i class="fas fa-envelope"></i>
+                        <span>Email</span>
+                        <small>randikap.20@cse.mrt.ac.lk</small>
+                    </a>
+                    
+                    <a href="https://github.com/randikapra" class="contact-link">
+                        <i class="fab fa-github"></i>
+                        <span>GitHub</span>
+                        <small>Follow my work</small>
+                    </a>
+                    
+                    <a href="tel:+94775747823" class="contact-link">
+                        <i class="fas fa-phone"></i>
+                        <span>Phone</span>
+                        <small>+94 77 574 7823</small>
+                    </a>
+                    
+                    <a href="https://kaggle.com/randikapra" class="contact-link">
+                        <i class="fab fa-kaggle"></i>
+                        <span>Kaggle</span>
+                        <small>Top 83% Ranking</small>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 Randika Prabashwara. All rights reserved. | Seeking opportunities to apply technical and analytical skills to address real-world complex problems.</p>
+        </div>
+    </footer>
+
+    <script>
+        // Typing Animation
+        const phrases = [
+            "Data Science Engineer | ML Enthusiast",
+            "Computer Vision Specialist", 
+            "Building AI Solutions for Real-World Problems",
+            "Transforming Data into Intelligent Insights",
+            "Final Year Student at University of Moratuwa"
+        ];
+        
+        let currentPhrase = 0;
+        let currentChar = 0;
+        let isDeleting = false;
+        const typingElement = document.getElementById('typing-text');
+        
+        function typeEffect() {
+            const current = phrases[currentPhrase];
+            
+            if (isDeleting) {
+                typingElement.textContent = current.substring(0, currentChar - 1);
+                currentChar--;
+            } else {
+                typingElement.textContent = current.substring(0, currentChar + 1);
+                currentChar++;
+            }
+            
+            let typeSpeed = isDeleting ? 50 : 100;
+            
+            if (!isDeleting && currentChar === current.length) {
+                typeSpeed = 2000; // Pause at end
+                isDeleting = true;
+            } else if (isDeleting && currentChar === 0) {
+                isDeleting = false;
+                currentPhrase = (currentPhrase + 1) % phrases.length;
+                typeSpeed = 500; // Pause before starting new phrase
+            }
+            
+            setTimeout(typeEffect, typeSpeed);
+        }
+        
+        // Start typing animation
+        typeEffect();
+        
+        // Smooth scrolling for navigation links
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start'
+                    });
+                }
+            });
+        });
+        
+        // Header scroll effect
+        window.addEventListener('scroll', () => {
+            const header = document.querySelector('header');
+            if (window.scrollY > 100) {
+                header.style.background = 'rgba(13, 17, 23, 0.98)';
+                header.style.backdropFilter = 'blur(15px)';
+            } else {
+                header.style.background = 'rgba(13, 17, 23, 0.95)';
+                header.style.backdropFilter = 'blur(10px)';
+            }
+        });
+        
+        // Intersection Observer for animations
+        const observerOptions = {
+            threshold: 0.1,
+            rootMargin: '0px 0px -50px 0px'
+        };
+        
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('visible');
+                }
+            });
+        }, observerOptions);
+        
+        // Observe all sections
+        document.querySelectorAll('.section').forEach(section => {
+            observer.observe(section);
+        });
+        
+        // Project cards hover effect
+        document.querySelectorAll('.project-card').forEach(card => {
+            card.addEventListener('mouseenter', function() {
+                this.style.transform = 'translateY(-10px) scale(1.02)';
+            });
+            
+            card.addEventListener('mouseleave', function() {
+                this.style.transform = 'translateY(0) scale(1)';
+            });
+        });
+        
+        // Skill items animation on hover
+        document.querySelectorAll('.skill-item').forEach(skill => {
+            skill.addEventListener('mouseenter', function() {
+                this.style.background = 'linear-gradient(135deg, #58A6FF 0%, #4ECDC4 100%)';
+                this.style.transform = 'scale(1.05) rotate(2deg)';
+            });
+            
+            skill.addEventListener('mouseleave', function() {
+                this.style.background = 'var(--bg-primary)';
+                this.style.transform = 'scale(1) rotate(0deg)';
+            });
+        });
+        
+        // Stats counter animation
+        function animateCounters() {
+            const counters = document.querySelectorAll('.stat-number');
+            
+            counters.forEach(counter => {
+                const target = counter.textContent;
+                const isNumber = !isNaN(target.replace(/[^0-9]/g, ''));
+                
+                if (isNumber) {
+                    const numTarget = parseInt(target.replace(/[^0-9]/g, ''));
+                    let count = 0;
+                    const increment = numTarget / 50;
+                    
+                    const timer = setInterval(() => {
+                        count += increment;
+                        if (count >= numTarget) {
+                            counter.textContent = target;
+                            clearInterval(timer);
+                        } else {
+                            const currentCount = Math.floor(count);
+                            if (target.includes('+')) {
+                                counter.textContent = currentCount + '+';
+                            } else if (target.includes('%')) {
+                                counter.textContent = 'Top ' + currentCount + '%';
+                            } else {
+                                counter.textContent = currentCount;
+                            }
+                        }
+                    }, 50);
+                }
+            });
+        }
+        
+        // Trigger counter animation when about section is visible
+        const aboutSection = document.querySelector('.about');
+        const aboutObserver = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    animateCounters();
+                    aboutObserver.unobserve(entry.target);
+                }
+            });
+        }, { threshold: 0.5 });
+        
+        aboutObserver.observe(aboutSection);
+        
+        // Parallax effect for hero background
+        window.addEventListener('scroll', () => {
+            const scrolled = window.pageYOffset;
+            const parallax = document.querySelector('.hero::before');
+            const speed = scrolled * 0.5;
+            
+            if (parallax) {
+                parallax.style.transform = `translateY(${speed}px)`;
+            }
+        });
+        
+        // Contact links hover animation
+        document.querySelectorAll('.contact-link').forEach(link => {
+            link.addEventListener('mouseenter', function() {
+                this.style.transform = 'translateY(-8px) scale(1.05)';
+                this.style.boxShadow = '0 15px 35px rgba(88, 166, 255, 0.4)';
+            });
+            
+            link.addEventListener('mouseleave', function() {
+                this.style.transform = 'translateY(0) scale(1)';
+                this.style.boxShadow = 'none';
+            });
+        });
+        
+        // Add loading animation
+        window.addEventListener('load', () => {
+            document.body.style.opacity = '0';
+            document.body.style.transition = 'opacity 0.5s ease-in-out';
+            
+            setTimeout(() => {
+                document.body.style.opacity = '1';
+            }, 100);
+        });
+        
+        // Mobile menu toggle (for future enhancement)
+        const createMobileMenu = () => {
+            const nav = document.querySelector('nav');
+            const menuToggle = document.createElement('div');
+            menuToggle.className = 'menu-toggle';
+            menuToggle.innerHTML = '<i class="fas fa-bars"></i>';
+            
+            if (window.innerWidth <= 768) {
+                nav.appendChild(menuToggle);
+                
+                menuToggle.addEventListener('click', () => {
+                    const navLinks = document.querySelector('.nav-links');
+                    navLinks.classList.toggle('active');
+                });
+            }
+        };
+        
+        // Initialize mobile menu on smaller screens
+        window.addEventListener('resize', createMobileMenu);
+        createMobileMenu();
+    </script>
+</body>
+</html>
