@@ -254,8 +254,7 @@ SQL           25 mins        ▒░░░░░░░░░░░░░░░░
 **🚀 Open to exciting opportunities in:** ![Data Science](https://img.shields.io/badge/Data_Science-FF6B6B?style=flat) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-4ECDC4?style=flat) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-45B7D1?style=flat) ![AI Research](https://img.shields.io/badge/AI_Research-96CEB4?style=flat) ![Software Development](https://img.shields.io/badge/Software_Development-FFEAA7?style=flat)
 
 *"Seeking opportunities to apply technical and analytical skills to address real-world complex problems and provide impactful solutions."*
-
-<div align="center">
+---
 <div align="center">
     <h2>
         <a href="https://randikapra.github.io">
@@ -273,8 +272,6 @@ SQL           25 mins        ▒░░░░░░░░░░░░░░░░
     </h2>
 </div>
 <br>
-
----
 
 <img src="https://komarev.com/ghpvc/?username=randikapra&color=58a6ff&style=for-the-badge&label=Profile+Views" alt="Profile Views"> <img src="https://img.shields.io/github/stars/randikapra?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Total%20Stars&color=yellow" alt="Stars"> <img src="https://img.shields.io/github/followers/randikapra?style=for-the-badge&logo=github&label=Followers&color=blue" alt="Followers">
 
