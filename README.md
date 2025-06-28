@@ -324,4 +324,14 @@ SQL               25 mins      ▒░░░░░░░░░░░░░░░�
 
 </div>
 
+
+## 🤝 Let's Collaborate!
+
+**🚀 Open to exciting opportunities in:**
+
+![Data Science](https://img.shields.io/badge/Data_Science-FF6B6B?style=for-the-badge) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-4ECDC4?style=for-the-badge) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-45B7D1?style=for-the-badge) ![AI Research](https://img.shields.io/badge/AI_Research-96CEB4?style=for-the-badge) ![Software Development](https://img.shields.io/badge/Software_Development-FFEAA7?style=for-the-badge)
+
+---
+
+
 </div>
