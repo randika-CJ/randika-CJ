@@ -15,6 +15,7 @@
 <div align="center">
 
 > **💡 Currently exploring:** *Advanced Computer Vision techniques, Reinforcement Learning, Natural Language Processing, Financial Analytics & Recommendation Systems, Time Series Analysis & Forecasting and Big Data Analytics*
+
 > *"Seeking opportunities to apply technical and analytical skills to address real-world complex problems and provide impactful solutions."*
 </div>
 
