@@ -3,6 +3,7 @@
 **Data Science Engineer | Machine Learning Enthusiast | Computer Vision Specialist**
 
 > *"Energetic, risk-taking, and results-oriented rational thinker, passionate about yielding perfect results for any challenge."*
+
 > **💡 Currently exploring:** *Advanced Computer Vision techniques, Time Series Analysis & Forecasting, Natural Language Processing, and MLOps & Model Deployment*
 
 **🌐 Portfolio:** *[randikapra.github.io](https://randikapra.github.io) - Showcasing my latest projects and research work*
