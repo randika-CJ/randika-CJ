@@ -270,11 +270,8 @@ SQL           25 mins        ▒░░░░░░░░░░░░░░░░
 </div>
 
 <br>
----
 
-**🚀 Open to exciting opportunities in:**
-
-![Data Science](https://img.shields.io/badge/Data_Science-FF6B6B?style=flat) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-4ECDC4?style=flat) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-45B7D1?style=flat) ![AI Research](https://img.shields.io/badge/AI_Research-96CEB4?style=flat) ![Software Development](https://img.shields.io/badge/Software_Development-FFEAA7?style=flat)
+**🚀 Open to exciting opportunities in:** ![Data Science](https://img.shields.io/badge/Data_Science-FF6B6B?style=flat) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-4ECDC4?style=flat) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-45B7D1?style=flat) ![AI Research](https://img.shields.io/badge/AI_Research-96CEB4?style=flat) ![Software Development](https://img.shields.io/badge/Software_Development-FFEAA7?style=flat)
 ---
 **💡 Open to opportunities in:** *Data Science • Machine Learning • Computer Vision • AI Research • Software Development*
 
